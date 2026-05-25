@@ -1,0 +1,2 @@
+f_beta,roc_auc,precision,recall,false_positives,true_positives,cost_savings
+0.9991731397211006,0.6285667097097415,0.9983719986418954,0.999185667752443,0,0,0.0
